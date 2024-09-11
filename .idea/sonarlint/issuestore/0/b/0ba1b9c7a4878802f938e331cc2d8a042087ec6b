@@ -1,0 +1,6 @@
+
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ýõô£ùÿÿÿÿ8Å´€ˆž2J$8ad20ed5-5886-4569-b926-9c70d3145b14
+i	java:S131""Add a default case to this switch.(Ýõô£ùÿÿÿÿ8Å´€ˆž2J$e4747724-9e41-4a9c-9de8-d756f8f72ccb
+‰
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(³Ï¥Ãùÿÿÿÿ8Æ´€ˆž2J$4415a62c-baf5-4a50-82e3-b0bf29d61ba0
