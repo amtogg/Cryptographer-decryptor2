@@ -32,6 +32,7 @@ public class Main {
 
                     break;
             }
+
         System.out.printf(cryptoModel.getFileSourcePath() + " " + cryptoModel.getFileSavePath() + " " + cryptoModel.getKey());
 
 
